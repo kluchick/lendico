@@ -67,5 +67,5 @@ Also should be extended with additional cases and checks.
 - We can store result of calcualtion to the DB for statistic and history
  
 
-* [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
+
 
