@@ -5,7 +5,7 @@ Preconditions:
  - Java is installed, JAVA_HOME is configured
  - Maven is installed and added to the path
  
- ####To run application:
+ #### To run application:
  - download the code
  - navigate to the plangenerator folder:
  - run command prompt and type
